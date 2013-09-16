@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="index.css" />
+
 <h1>Welcome to P1<h>
 
 	<h3>Name: Daniel Breidenbach</h3>

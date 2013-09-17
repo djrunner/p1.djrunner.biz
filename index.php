@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="UTF-8">
 <title>Project 1: Workflow setup and essential HTML/CSS deomonstration</title>
 <link rel="stylesheet" type="text/css" href="index.css" />
 </head>

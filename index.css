@@ -1,3 +1,15 @@
-body {font-family: sans-serif; background-color: #3300FF; }
-h2, h2 {font-weight: bold; background-color: #6600FF;}
-ul {background-color: #9900FF; }
+body {font-family: sans-serif; 
+	background-color: #0099FF}
+h2 {font-weight: bold;}
+div {
+	border-style: ridge; 
+	background-color: #CCCCCC;
+	width: 450px; 
+	height: 250px;
+    margin: 20px;
+    padding: 10px;}
+
+div#me {position: absolute;left: 60px; top: 10px;}
+div#Favorite{ position: absolute; right: 60px; top: 10px; }
+div#programs{ position: absolute; left: 60px; top: 350px;}
+div#pic{ position: absolute; right: 60px; top: 350px;}
